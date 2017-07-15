@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace JeremyTCD.PipelinesCE.PluginAndConfigTools
+namespace JeremyTCD.Newtonsoft.Json.Utils
 {
     // TODO move this to utils
     /// <summary>

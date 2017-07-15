@@ -2,7 +2,7 @@
 using System.Text.RegularExpressions;
 using Xunit;
 
-namespace JeremyTCD.PipelinesCE.PluginAndConfigTools.Tests.IntegrationTests
+namespace JeremyTCD.Newtonsoft.Json.Utils.Tests.IntegrationTests
 {
     public class PrivateFieldsJsonConverterIntegrationTests
     {
